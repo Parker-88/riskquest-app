@@ -1,0 +1,16 @@
+{
+  "name": "RiskQuest 风控求职训练营",
+  "short_name": "RiskQuest",
+  "description": "风控策略与风控数据分析岗位的离线求职训练应用",
+  "lang": "zh-CN",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080d1b",
+  "theme_color": "#080d1b",
+  "icons": [
+    {"src":"./icons/icon-192.svg","sizes":"192x192","type":"image/svg+xml","purpose":"any maskable"},
+    {"src":"./icons/icon-512.svg","sizes":"512x512","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
